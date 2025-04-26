@@ -85,4 +85,5 @@ User Needs Identified
 Prompt Techniques Effectiveness
 Chatbot Accuracy, Relevance, and Response Time
 
-# Result: Thus the Prompts were exected succcessfully .
+# Result: 
+Thus the Prompts were exected succcessfully .
